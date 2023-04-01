@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MaterialDesignUiSample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_one">Hello blank fragment One</string>
+    <string name="hello_blank_fragment_two">Hello blank fragment Two</string>
+    <string name="hello_blank_fragment_three">Hello blank fragment Three</string>
+    <string name="hello_blank_fragment_four">Hello blank fragment Four</string>
+    <string name="hello_blank_fragment_five">Hello blank fragment Five</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_notifications">Your Notifications</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
